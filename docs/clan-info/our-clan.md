@@ -3,11 +3,11 @@
 We are a peaceful sanctuary in a noisy world – a clan with no interest in PvP or wars.
 Our foundation is community, harmony, and respect.
 
-✨ What we offer ✨
-✅ No minimum CS – all are welcome
-✅ Epic Battles whenever requested
-✅ A supportive, drama-free environment
-✅ A home for both beginners and veterans
+✨ What we offer ✨  
+✅ No minimum CS – all are welcome  
+✅ Epic Battles whenever requested  
+✅ A supportive, drama-free environment  
+✅ A home for both beginners and veterans  
 ✅ Focus on kindness, patience, and growth
 
 Strength means nothing here – it is your mindset that defines you.
