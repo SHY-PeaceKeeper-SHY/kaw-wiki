@@ -1,5 +1,5 @@
 site_name: Silent Harmony KaW Wiki
-site_description: A fan-made wiki for Kingdoms at War Epic Battles
+site_description: A fan-made wiki for Kingdoms at War
 site_author: Silent Harmony Clan
 
 theme:
@@ -40,3 +40,4 @@ nav:
           - City of the Dead: epic-battles/tier5/city-of-the-dead.md
           - Figure of Death: epic-battles/tier5/figure-of-death.md
           - "Haunting: The Escape": epic-battles/tier5/haunting-the-escape.md
+  - Our Clan: our-clan.md
