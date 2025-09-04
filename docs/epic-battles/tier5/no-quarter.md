@@ -56,4 +56,5 @@
 
 - **Difficulty:** Medium  
 - **Rewards:** Gold, Hystricidae Helmet, Nether Realm Breastplate  
+- **Previous Battle:** [The Haunting](the-haunting.md)  
 - **Next Battle:** [City of the Dead](city-of-the-dead.md)

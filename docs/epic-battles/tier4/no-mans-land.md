@@ -34,4 +34,5 @@
 
 - **Difficulty:** Medium  
 - **Rewards:** Gold, Hooves of Destruction, Leonine Arm Plate  
+- **Previous Battle:** [Evanescence](evanescence.md)  
 - **Next Battle:** [Ambush](ambush.md)

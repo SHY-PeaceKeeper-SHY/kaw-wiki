@@ -50,4 +50,5 @@
 
 - **Difficulty:** Medium  
 - **Rewards:** Gold, Locust Swarm, Mind Scream, Armor of Eternal Fire  
+- **Previous Battle:** [Ambush](ambush.md)  
 - **Next Battle:** [The Haunting](../tier5/the-haunting.md)

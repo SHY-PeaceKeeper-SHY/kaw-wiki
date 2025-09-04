@@ -36,4 +36,5 @@
 
 - **Difficulty:** Medium  
 - **Rewards:** Gold, Aqua, Inferno, Horn of Calydor  
+- **Previous Battle:** [Figure of Death](figure-of-death.md)  
 - **Next Battle:** [Talons of Carnage](../tier6/talons-of-carnage.md)

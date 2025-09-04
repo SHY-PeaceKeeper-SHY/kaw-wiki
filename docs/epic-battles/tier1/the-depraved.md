@@ -41,4 +41,5 @@
 
 - **Difficulty:** Easy  
 - **Rewards:** Gold, Horn of Calydor, Seal of the Damned  
+- **Previous Battle:** [To the Chamber](to-the-chamber.md)  
 - **Next Battle:** [Revenge of the Warbeasts](revenge-of-the-warbeasts.md)

@@ -41,4 +41,5 @@
 
 - **Difficulty:** Medium  
 - **Rewards:** Gold  
+- **Previous Battle:** [Battle Royale](battle-royale.md)  
 - **Next Battle:** [Evanescence](../tier4/evanescence.md)

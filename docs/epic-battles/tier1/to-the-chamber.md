@@ -34,4 +34,5 @@
 
 - **Difficulty:** Easy 
 - **Rewards:** Gold, Horn of Calydor  
+- **Previous Battle:** [Kingdom Assault](kingdom-assault.md)  
 - **Next Battle:** [The Depraved](the-depraved.md)

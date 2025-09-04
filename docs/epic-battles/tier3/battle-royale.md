@@ -39,4 +39,5 @@
 
 - **Difficulty:** Medium  
 - **Rewards:** Gold  
+- **Previous Battle:** [Foreign Territories](foreign-territories.md)  
 - **Next Battle:** [Origins](origins.md)

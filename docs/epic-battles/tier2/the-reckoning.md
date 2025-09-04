@@ -40,4 +40,5 @@
 
 - **Difficulty:** Easy  
 - **Rewards:** Gold, Seal of the Damned, Hooves of Destruction  
+- **Previous Battle:** [The Forgotten Ones](the-forgotten-ones.md)  
 - **Next Battle:** [Abandoned Kingdom](../tier3/abandoned-kingdom.md)

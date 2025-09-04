@@ -38,4 +38,5 @@
 
 - **Difficulty:** Medium  
 - **Rewards:** Gold  
+- **Previous Battle:** [No Mans Land](no-mans-land.md)  
 - **Next Battle:** [The Destroyer](the-destroyer.md)

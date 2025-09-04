@@ -32,4 +32,5 @@
 
 - **Difficulty:** Easy  
 - **Rewards:** Gold
+- **Previous Battle:** [Warbeasts](warbeasts.md)  
 - **Next Battle:** [Kingdom Assault](kingdom-assault.md)

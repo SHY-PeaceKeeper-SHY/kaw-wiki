@@ -34,4 +34,5 @@
 
 - **Difficulty:** Easy  
 - **Rewards:** Gold  
+- **Previous Battle:** [The Reckoning](../tier2/the-reckoning.md)  
 - **Next Battle:** [Foreign Territories](foreign-territories.md)

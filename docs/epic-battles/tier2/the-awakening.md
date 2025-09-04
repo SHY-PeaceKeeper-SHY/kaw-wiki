@@ -32,4 +32,5 @@
 
 - **Difficulty:** Easy  
 - **Rewards:** Gold  
+- **Previous Battle:** [Revenge of the Warbeasts](../tier1/revenge-of-the-warbeasts.md)  
 - **Next Battle:** [The Despair](the-despair.md)

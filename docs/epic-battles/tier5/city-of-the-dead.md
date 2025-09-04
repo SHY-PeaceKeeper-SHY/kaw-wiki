@@ -45,4 +45,5 @@
 
 - **Difficulty:** Medium  
 - **Rewards:** Gold, Locust Swarm, Mind Scream, Ice Guardian's Shield  
+- **Previous Battle:** [No Quarter](no-quarter.md)  
 - **Next Battle:** [Figure of Death](figure-of-death.md)

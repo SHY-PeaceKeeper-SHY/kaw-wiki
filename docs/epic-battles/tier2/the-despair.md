@@ -32,4 +32,5 @@
 
 - **Difficulty:** Easy  
 - **Rewards:** Gold  
+- **Previous Battle:** [The Awakening](the-awakening.md)  
 - **Next Battle:** [The Forgotten Ones](the-forgotten-ones.md)

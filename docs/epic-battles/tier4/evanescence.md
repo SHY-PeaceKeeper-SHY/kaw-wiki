@@ -30,4 +30,5 @@
 
 - **Difficulty:** Medium  
 - **Rewards:** Gold  
+- **Previous Battle:** [Origins](../tier3/origins.md)  
 - **Next Battle:** [No Mans Land](no-mans-land.md)

@@ -2,7 +2,7 @@
 
 **Duration:** 12 hours  
 **Requirements:** None  
-**Items:** Angel of Light & Holy Wrath (Phase 1 & 2; if told to: Phase 3), Locust Swarm (Phase 2; if told to: Phase 3)
+**Items:** Angel of Light & Holy Wrath (Phase 1 & 2; if told to: Phase 3), Locust Swarm (Phase 2; if told to: Phase 3)  
 **Regens:** Haze of the Accursed (Phase 1, 2 & 3), Forests of Corruption (Phase 3)  
 **Drops:** Blizzard, Amnesia, Aqua, Inferno, King's Tomb, Abyssal Blade, Diamondiferous  
 **Clan Unlock Bonus:** None
@@ -47,4 +47,5 @@
 
 - **Difficulty:** Medium  
 - **Rewards:** Gold, Blizzard, Amnesia, Aqua, Inferno, King's Tomb, Abyssal Blade, Diamondiferous  
+- **Previous Battle:** [City of the Dead](city-of-the-dead.md)  
 - **Next Battle:** [Haunting: The Escape](haunting-the-escape.md)

@@ -30,4 +30,5 @@
 
 - **Difficulty:** Easy  
 - **Rewards:** Gold, Horn of Calydor  
+- **Previous Battle:** [Cover of Night](cover-of-night.md)  
 - **Next Battle:** [To the Chamber](to-the-chamber.md)

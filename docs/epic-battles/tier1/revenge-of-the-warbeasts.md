@@ -34,4 +34,5 @@
 
 - **Difficulty:** Easy  
 - **Rewards:** Gold, Seal of the Damned  
+- **Previous Battle:** [The Depraved](the-depraved.md)  
 - **Next Battle:** [The Awakening](../tier2/the-awakening.md)

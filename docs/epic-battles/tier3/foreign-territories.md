@@ -30,4 +30,5 @@
 
 - **Difficulty:** Easy  
 - **Rewards:** Gold  
+- **Previous Battle:** [Abandoned Kingdom](abandoned-kingdom.md)  
 - **Next Battle:** [Battle Royale](battle-royale.md)

@@ -33,4 +33,5 @@
 
 - **Difficulty:** Easy  
 - **Rewards:** Gold  
+- **Previous Battle:** [The Despair](the-despair.md)  
 - **Next Battle:** [The Reckoning](the-reckoning.md)

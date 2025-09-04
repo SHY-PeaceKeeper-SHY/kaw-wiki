@@ -33,4 +33,5 @@
 
 - **Difficulty:** Medium  
 - **Rewards:** Gold, Seal of the Damned  
+- **Previous Battle:** [The Destroyer](../tier4/the-destroyer.md)  
 - **Next Battle:** [No Quarter](no-quarter.md)
