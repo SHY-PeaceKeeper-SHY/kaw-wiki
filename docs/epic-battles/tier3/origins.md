@@ -1,4 +1,4 @@
-# Origins (Tier 4 – Level 1)
+# Origins (Tier 3 – Level 4)
 
 **Duration:** 12 hours  
 **Requirements:** None  

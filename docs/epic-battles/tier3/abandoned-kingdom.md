@@ -1,4 +1,4 @@
-# Abandoned Kingdom (Tier 3 – Level 2)
+# Abandoned Kingdom (Tier 3 – Level 1)
 
 **Duration:** 3 hours  
 **Requirements:** None  
