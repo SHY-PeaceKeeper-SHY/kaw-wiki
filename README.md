@@ -1,6 +1,6 @@
 # KaW Wiki & Epic Battle Guides
 
-Welcome to the **Kingdoms at War (KaW) Wiki** repository!  
+Welcome to our fan-made, non-official **Kingdoms at War (KaW) Wiki** repository!  
 
 There are many KaW wikis and guides online, but most are outdated, incomplete, or missing modern features and full Epic Battle walkthroughs. My goal is to change that by collecting all essential information from guides, wikis, and forums in one place.
 
@@ -11,7 +11,7 @@ There are many KaW wikis and guides online, but most are outdated, incomplete, o
 - Complete **Epic Battle guides**, including detailed battle phases, items, strategies, and rewards.  
 - Fully written in **Markdown**, so you can clone the repo and use it **offline**.  
 - Easy to **customize and edit** for your own notes or strategies.  
-- Modern, structured format inspired by the original game interface.
+- **Structured format** for easy customization.
 
 ---
 
