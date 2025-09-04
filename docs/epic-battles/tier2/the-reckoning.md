@@ -40,4 +40,4 @@
 
 - **Difficulty:** Easy  
 - **Rewards:** Gold, Seal of the Damned, Hooves of Destruction  
-<!-- - **Next Battle:** [Abandoned Kingdom](abandoned-kingdom.md) -->
+- **Next Battle:** [Abandoned Kingdom](../tier3/abandoned-kingdom.md)
