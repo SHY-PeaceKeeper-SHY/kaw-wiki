@@ -77,4 +77,4 @@ Play how you like and enjoy what you do, thanks for reading🍻
 
 ### Credits
 
-This Quick Start Guide was generously contributed by [GitHub user](https://github.com/Redman204) and clan admin **Redman204**.
+This Quick Start Guide was generously contributed by <a href="https://github.com/Redman204" target="_blank" rel="noopener noreferrer">GitHub user</a> and clan admin **Redman204**.
