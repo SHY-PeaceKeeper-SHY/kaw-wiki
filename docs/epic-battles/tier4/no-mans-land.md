@@ -2,9 +2,25 @@
 
 **Duration:** 8 hours  
 **Requirements:** None  
-**Items:** Runes of Detection (Phase 1)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/runes-of-detection.png" alt="Runes of Detection" width="64" style="cursor:pointer;" onclick="alert('Spy Defense (37.5k Gold / piece)')">
+    <div>Runes of Detection</div>
+    <div>(Phase 1)</div>
+  </div>
+</div>
 **Regens:** Shield Spell (Phase 1)  
-**Drops:** Hooves of Destruction, Leonine Arm Plate  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/hooves-of-destruction.png" alt="Hooves of Destruction" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +700,000')">
+    <div>Hooves of Destruction</div>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/leonine-arm-plate.png" alt="Leonine Arm Plate" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +3,000,000 / Defense: +3,000,000')">
+    <div>Leonine Arm Plate</div>
+  </div>
+</div>
 **Clan Unlock Bonus:** None
 
 ---

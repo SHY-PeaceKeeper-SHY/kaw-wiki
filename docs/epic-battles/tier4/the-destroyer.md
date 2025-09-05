@@ -2,9 +2,44 @@
 
 **Duration:** 12 hours  
 **Requirements:** None  
-**Items:** Elixir of Rage (Phase 2), Elven Shield (Phase 3), Elixir of Rage & Elven Shield (Phase 4)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/elixir-of-rage.jpg" alt="Elixir of Rage" width="64" style="cursor:pointer;" onclick="alert('Attack (5k Gold / piece)')">
+    <div>Elixir of Rage</div>
+    <div>(Phase 2)</div>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/elven-shield.jpg" alt="Elven Shield" width="64" style="cursor:pointer;" onclick="alert('Defense (125k Gold / piece)')">
+    <div>Elven Shield</div>
+    <div>(Phase 3)</div>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <!-- Bilder in einer Reihe -->
+    <div style="display:flex; gap:5px;">
+      <img src="../../../images/items/elixir-of-rage.jpg" alt="Elixir of Rage" width="64" style="cursor:pointer;" onclick="alert('Attack (5k Gold / piece)')">
+      <img src="../../../images/items/elven-shield.jpg" alt="Elven Shield" width="64" style="cursor:pointer;" onclick="alert('Defense (125k Gold / piece)')">
+    </div>
+    <div>Elixir of Rage + Elven Shield</div>
+    <div>(Phase 4)</div>
+  </div>
+</div>
 **Regens:** Smoldering Form (Phase 4)  
-**Drops:** Locust Swarm, Mind Scream, Armor of Eternal Fire  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/locust-swarm.png" alt="Locust Swarm" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +25,000,000')">
+    <div>Locust Swarm</div>
+  </div>
+ <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/mind-scream.png" alt="Mind Scream" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Attack: +20,000,000')">
+    <div>Mind Scream</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/armor-of-eternal-fire.png" alt="Armor of Eternal Fire" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Defense: +5%')">
+    <div>Armor of Eternal Fire</div>
+  </div> 
+</div>
 **Clan Unlock Bonus:** None
 
 ---
