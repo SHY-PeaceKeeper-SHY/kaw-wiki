@@ -2,9 +2,20 @@
 
 **Duration:** 6 hours  
 **Requirements:** None  
-**Items:** Seal of Deflection (Phase 1), Seal of Deflection (Phase 2)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/seal-of-deflection.jpg" alt="Seal of Deflection" width="64" style="cursor:pointer;" onclick="alert('Defense (12.5k Gold / piece)')">
+    <div>Seal of Deflection</div>
+    <div>(Phase 1 & 2)</div>
+  </div>
+</div>
 **Regens:** None  
-**Drops:** Seal of the Damned  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/seal-of-the-damned.png" alt="Seal of the Damned" width="64" style="cursor:pointer;" onclick="alert('Required for Haunting: The Escape!')">
+    <div>Seal of the Damned</div>
+  </div>
+</div>
 **Clan Unlock Bonus:** None
 
 ---

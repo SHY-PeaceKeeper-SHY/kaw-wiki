@@ -2,9 +2,31 @@
 
 **Duration:** 12 hours  
 **Requirements:** None  
-**Items:** Seal of Deflection (Phase 2, 3 & 4), Seal of Lightning (Phase 4)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/seal-of-deflection.jpg" alt="Elixir of Rage" width="64" style="cursor:pointer;" onclick="alert('Defense (12.5k Gold / piece)')">
+    <div>Seal of Deflection</div>
+    <div>(Phase 2, 3 & 4)</div>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/seal-of-lightning.jpg" alt="Seal of Lightning" width="64" style="cursor:pointer;" onclick="alert('Attack (50k Gold / piece)')">
+    <div>Seal of Lightning</div>
+    <div>(Phase 4)</div>
+  </div>
+</div>
 **Regens:** Apheriun's Seal (Phase 2), Apheriun's Improved Seal (Phase 3 & 4), Seal of the Nether (Phase 4)  
-**Drops:** Hystricidae Helmet, Nether Realm Breastplate  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/hystricidae-helmet.png" alt="Hystricidae Helmet" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Attack: +270,000 / Spy Defense: +270,000')">
+    <div>Hystricidae Helmet</div>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/nether-realm-breastplate.png" alt="Nether Realm Breastplate" width="64" style="cursor:pointer;" onclick="alert('Stats: Defense: +5,000,000')">
+    <div>Nether Realm Breastplate</div>
+  </div>
+</div>
 **Clan Unlock Bonus:** None
 
 ---

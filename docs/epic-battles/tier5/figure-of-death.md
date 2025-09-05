@@ -2,9 +2,41 @@
 
 **Duration:** 12 hours  
 **Requirements:** None  
-**Items:** Angel of Light & Holy Wrath (Phase 1 & 2; if told to: Phase 3), Locust Swarm (Phase 2; if told to: Phase 3)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <!-- Bilder in einer Reihe -->
+    <div style="display:flex; gap:5px;">
+      <img src="../../../images/items/angels-of-light.png" alt="Angels of Light" width="64" style="cursor:pointer;" onclick="alert('Spy Defense (3.7M Gold / piece)')">
+      <img src="../../../images/items/holy-wrath.png" alt="Holy Wrath" width="64" style="cursor:pointer;" onclick="alert('Attack (7.5M Gold / piece)')">
+    </div>
+    <div>Angels of Light + Holy Wrath</div>
+    <div>(Phase 1 & 2; if told to: Phase 3)</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/locust-swarm.png" alt="Locust Swarm" width="64" style="cursor:pointer;" onclick="alert('Defense (125k Gold / piece)')">
+    <div>Locust Swarm</div>
+    <div>(Phase 2; if told to: Phase 3)</div>
+  </div>
+</div> 
 **Regens:** Haze of the Accursed (Phase 1, 2 & 3), Forests of Corruption (Phase 3)  
-**Drops:** Blizzard, Amnesia, Aqua, Inferno, King's Tomb, Abyssal Blade, Diamondiferous  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/blizzard.png" alt="Blizzard" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +45,000,000')">
+    <div>Blizzard</div>
+  </div>
+ <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/amnesia.png" alt="Amnesia" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Attack: +35,000,000')">
+    <div>Amnesia</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/abyssal-blade.png" alt="Abyssal Blade" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +10% / Spy Attack: +10%')">
+    <div>Abyssal Blade</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/diamondiferous.png" alt="Diamondiferous" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +5,500,000 / Spy Attack: +2,100,000')">
+    <div>Diamondiferous</div>
+  </div>
+</div>
 **Clan Unlock Bonus:** None
 
 ---
@@ -12,7 +44,7 @@
 ## 🧪 Battle Phases
 
 ### Phase 1 of 3:
-- **Haze of the Accursed (30,000):** Items: Angel of Light & Holy Wrath  
+- **Haze of the Accursed (30,000):** Items: Angels of Light & Holy Wrath  
   *Haze of the Accursed regenerates 600 points every 10 minutes!*  
 - **Life:** Attack and Assassinate to 75%
 

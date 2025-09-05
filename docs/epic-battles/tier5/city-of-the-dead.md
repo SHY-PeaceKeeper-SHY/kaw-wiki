@@ -2,9 +2,39 @@
 
 **Duration:** 12 hours  
 **Requirements:** None  
-**Items:** Angel of Light (Phase 1), Seal of Divinity (Phase 2), Holy Wrath (Phase 3)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/angels-of-light.png" alt="Angels of Light" width="64" style="cursor:pointer;" onclick="alert('Spy Defense (3.7M Gold / piece)')">
+    <div>Angels of Light</div>
+    <div>(Phase 1)</div>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/seal-of-divinity.png" alt="Seal of Divinity" width="64" style="cursor:pointer;" onclick="alert('Defense (6M Gold / piece)')">
+    <div>Seal of Divinity</div>
+    <div>(Phase 2)</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/holy-wrath.png" alt="Holy Wrath" width="64" style="cursor:pointer;" onclick="alert('Attack (7.5M Gold / piece)')">
+    <div>Holy Wrath</div>
+    <div>(Phase 3)</div>
+  </div>
+</div>
 **Regens:** Haze of Evil (Phase 1), Specters of the Accursed (Phase 3)  
-**Drops:** Locust Swarm, Mind Scream, Ice Guardian's Shield  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/locust-swarm.png" alt="Locust Swarm" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +25,000,000')">
+    <div>Locust Swarm</div>
+  </div>
+ <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/mind-scream.png" alt="Mind Scream" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Attack: +20,000,000')">
+    <div>Mind Scream</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/ice-guardians-shield.png" alt="Ice Guardian's Shield" width="64" style="cursor:pointer;" onclick="alert('Stats: Defense: +5%')">
+    <div>Ice Guardian's Shield</div>
+  </div> 
+</div>
 **Clan Unlock Bonus:** None
 
 ---
@@ -12,7 +42,7 @@
 ## 🧪 Battle Phases
 
 ### Phase 1 of 3:
-- **Haze of Evil (30,000):** Item: Angel of Light  
+- **Haze of Evil (30,000):** Item: Angels of Light  
   *Haze of Evil regenerates 400 points every 10 minutes!*  
 - **Army of the Undead (250,000):** Attack and Assassinate  
 - **Pursuit:** Scout to 66%
