@@ -2,9 +2,20 @@
 
 **Duration:** 12 hours  
 **Requirements:** None  
-**Items:** Horn of Calydor (Phase 1)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/horn-of-calydor.png" alt="Horn of Calydor" width="64" style="cursor:pointer;" onclick="alert('Required for Revenge of the Warbeasts!')">
+    <div>Horn of Calydor</div>
+    <div>(Phase 1)</div>
+  </div>
+</div>
 **Regens:** None  
-**Drops:** Seal of the Damned  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/seal-of-the-damned.png" alt="Seal of the Damned" width="64" style="cursor:pointer;" onclick="alert('Required for Haunting: The Escape!')">
+    <div>Seal of the Damned</div>
+  </div>
+</div>
 **Clan Unlock Bonus:** None
 
 ---

@@ -2,9 +2,25 @@
 
 **Duration:** 12 hours  
 **Requirements:** None  
-**Items:** Sleeping Potion (Phase 1)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/sleeping-potion.jpg" alt="Sleeping Potion" width="64" style="cursor:pointer;" onclick="alert('Spy Attack (5k Gold / piece)')">
+    <div>Sleeping Potion</div>
+    <div>(Phase 1)</div>
+  </div>
+</div>
 **Regens:** Alertness (Phase 1), Health (Phase 1 & 2)  
-**Drops:** Horn of Calydor, Seal of the Damned  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/horn-of-calydor.png" alt="Horn of Calydor" width="64" style="cursor:pointer;" onclick="alert('Required for Revenge of the Warbeasts!')">
+    <div>Horn of Calydor</div>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/seal-of-the-damned.png" alt="Seal of the Damned" width="64" style="cursor:pointer;" onclick="alert('Required for Haunting: The Escape!')">
+    <div>Seal of the Damned</div>
+  </div>
+</div>
 **Clan Unlock Bonus:** None
 
 ---

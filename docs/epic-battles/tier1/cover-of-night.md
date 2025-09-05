@@ -2,7 +2,13 @@
 
 **Duration:** 4 hours  
 **Requirements:** None  
-**Items:** Sleeping Potion (Phase 1)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/sleeping-potion.jpg" alt="Sleeping Potion" width="64" style="cursor:pointer;" onclick="alert('Spy Attack (5k Gold / piece)')">
+    <div>Sleeping Potion</div>
+    <div>(Phase 1)</div>
+  </div>
+</div>
 **Regens:** None  
 **Drops:** None  
 **Clan Unlock Bonus:**  

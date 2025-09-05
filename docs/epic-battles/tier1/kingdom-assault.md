@@ -4,7 +4,12 @@
 **Requirements:** None  
 **Items:** None  
 **Regens:** First Line (Phase 1), Second Line (Phase 1)  
-**Drops:** Horn of Calydor  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/horn-of-calydor.png" alt="Horn of Calydor" width="64" style="cursor:pointer;" onclick="alert('Required for Revenge of the Warbeasts!')">
+    <div>Horn of Calydor</div>
+  </div>
+</div>
 **Clan Unlock Bonus:** None
 
 ---
