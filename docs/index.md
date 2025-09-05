@@ -10,9 +10,11 @@ You can also find me in KaW: SHY-PeaceKeeper-SHY
 
 ## Guides
 
-### [Epic Battles](epic-battles.md)
+#### [Quick Start Guide](guides/quick-start.md)
+#### [Epic Battles](epic-battles.md)
 
 ---
 ## Credits
 
 * <a href="https://spartadivisions.weebly.com" target="_blank" rel="noopener noreferrer">spartadivisions.weebly.com</a> - Used as main source for most Epic Battle guides until LotL (inactive clan in 2025 -> Sparta Elite Division)
+* [GitHub user](https://github.com/Redman204) and clan admin **Redman204** - responsible for the Quick Start Guide

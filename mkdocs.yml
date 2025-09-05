@@ -11,6 +11,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Quick Start Guide: guides/quick-start.md
   - Epic Battles:
       - Calydor the Depraved:
           - Warbeasts: epic-battles/tier1/warbeasts.md
