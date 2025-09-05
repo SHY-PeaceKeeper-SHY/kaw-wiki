@@ -2,9 +2,25 @@
 
 **Duration:** 12 hours  
 **Requirements:** None  
-**Items:** Healing Aura (Phase 2)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/healing-aura.jpg" alt="Healing Aura" width="64" style="cursor:pointer;" onclick="alert('Defense (62.5k Gold / piece)')">
+    <div>Healing Aura</div>
+    <div>(Phase 2)</div>
+  </div>
+</div>
 **Regens:** Massive Tentacles (Phase 2)  
-**Drops:** Seal of the Damned, Hooves of Destruction  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/hooves-of-destruction.png" alt="Hooves of Destruction" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +700,000')">
+    <div>Hooves of Destruction</div>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/seal-of-the-damned.png" alt="Seal of the Damned" width="64" style="cursor:pointer;" onclick="alert('Required for Haunting: The Escape!')">
+    <div>Seal of the Damned</div>
+  </div>
+</div>
 **Clan Unlock Bonus:** None
 
 ---

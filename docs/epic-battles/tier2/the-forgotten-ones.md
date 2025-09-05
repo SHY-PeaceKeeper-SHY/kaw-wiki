@@ -2,7 +2,13 @@
 
 **Duration:** 6 hours  
 **Requirements:** None  
-**Items:** Bribery Gem (Phase 1)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/bribery-gem.png" alt="Bribery Gem" width="64" style="cursor:pointer;" onclick="alert('Spy Attack (60k Gold / piece)')">
+    <div>Bribery Gem</div>
+    <div>(Phase 1)</div>
+  </div>
+</div>
 **Regens:** None  
 **Drops:** None  
 **Clan Unlock Bonus:** None

@@ -2,7 +2,13 @@
 
 **Duration:** 9 hours  
 **Requirements:** None  
-**Items:** Elixir of Rage (Phase 3)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/elixir-of-rage.jpg" alt="Elixir of Rage" width="64" style="cursor:pointer;" onclick="alert('Attack (5k Gold / piece)')">
+    <div>Elixir of Rage</div>
+    <div>(Phase 3)</div>
+  </div>
+</div>
 **Regens:** None  
 **Drops:** None  
 **Clan Unlock Bonus:** None

@@ -2,9 +2,20 @@
 
 **Duration:** 12 hours  
 **Requirements:** None  
-**Items:** Scroll of the Mage's Eye (Phase 3)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/scroll-of-the-mages-eye.jpg" alt="Scroll of the Mage's Eye" width="64" style="cursor:pointer;" onclick="alert('Spy Attack (5k Gold / piece)')">
+    <div>Scroll of the Mage's Eye</div>
+    <div>(Phase 3)</div>
+  </div>
+</div>
 **Regens:** Usaris's Mace (Phase 3), Sol Spell (Phase 3)  
-**Drops:** Hystricidae Helmet  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/hystricidae-helmet.png" alt="Hystricidae Helmet" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Attack: +270,000 / Spy Defense: +270,000)')">
+    <div>Hystricidae Helmet</div>
+  </div>
+</div>
 **Clan Unlock Bonus:** None
 
 ---
