@@ -54,5 +54,5 @@
 
 - **Difficulty:** Moderate  
 - **Rewards:** Gold, Aqua, Inferno, Steadfast Sollerets, Gold-Plated Greaves  
-- **Previous Battle:** [Sporavek’s Revenge](sporaveks-revenge.md)  
+- **Previous Battle:** [Sporavek’s Revenge](../tier6/sporaveks-revenge.md)  
 - **Next Battle:** [Terrain Travails](terrain-travails.md)
