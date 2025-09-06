@@ -31,8 +31,9 @@
     <div>Mind Scream</div>
   </div>
   <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
-    <img src="../../../images/items/ice-guardians-shield.png" alt="Ice Guardian's Shield" width="64" style="cursor:pointer;" onclick="alert('Stats: Defense: +5%')">
+    <img src="../../../images/equipment/ice-guardians-shield.png" alt="Ice Guardian's Shield" width="64" style="cursor:pointer;" onclick="alert('Stats: Defense: +5%')">
     <div>Ice Guardian's Shield</div>
+    <div>(Equipment)</div>
   </div> 
 </div>
 **Clan Unlock Bonus:** None

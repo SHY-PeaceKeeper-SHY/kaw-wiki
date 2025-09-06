@@ -1,20 +1,78 @@
 # Sporavek’s Revenge (Tier 6 – Level 4)
 
 **Duration:** 12 hours  
-**Requirements:**  
-- Fog of War spell (Phase 3)  
-- Battle Fury spell (Phase 3)  
-- Abyssal Sword (Phase 4)  
-- Torrent Talisman (Phase 4)  
-**Items:**  
-- Chalice of Life (Phase 1)  
-- Seal of Deflection (Phase 2)  
+**Requirements:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/spells/fog-of-war.png" alt="Fog of War (Spell)" width="64" style="cursor:pointer;" onclick="alert('Available at Alchemist. Stats: Spy Attack: +20,000,000 / Spy Defense: +20,000,000 (1 Mithril / 5h)')">
+    <div>Fog of War (Spell)</div>
+    <div>(Phase 3)</div>
+  </div>
+ <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/spells/battle-fury.png" alt="Battle Fury (Spell)" width="64" style="cursor:pointer;" onclick="alert('Available at Alchemist. Stats: Attack: +25,000,000 / Defense: +25,000,000 (1 Mithril / 5h)')">
+    <div>Battle Fury (Spell)</div>
+    <div>(Phase 3)</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/equipment/abyssal-blade.png" alt="Abyssal Blade" width="64" style="cursor:pointer;" onclick="alert('Required equipped for Scionic Storm!')">
+    <div>Abyssal Blade</div>
+    <div>(Equipment)</div>
+    <div>(Phase 4)</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/equipment/torrent-talisman.png" alt="Torrent Talisman" width="64" style="cursor:pointer;" onclick="alert('Required equipped for Scionic Storm!')">
+    <div>Torrent Talisman</div>
+    <div>(Equipment)</div>
+    <div>(Phase 4)</div>
+  </div>  
+</div>
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/chalice-of-life.png" alt="Chalice of Life" width="64" style="cursor:pointer;" onclick="alert('Defense (1.2M Gold / piece)')">
+    <div>Chalice of Life</div>
+    <div>(Phase 1)</div>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/seal-of-deflection.jpg" alt="Seal of Deflection" width="64" style="cursor:pointer;" onclick="alert('Attack (50k Gold / piece)')">
+    <div>Seal of Deflection</div>
+    <div>(Phase 2)</div>
+  </div>
+</div>
 **Regens:**  
 - Infected Soldiers (Phase 2)  
 - Steel Talons (Phase 4)  
 - Metallic Roots (Phase 4)  
 - Cavernous Mouth (Phase 4)  
-**Drops:** Blizzard, Amnesia, Aqua, Inferno, Seal of the Damned, Iron Gauntlets, Pinioned Boots  
+**Drops:** <div style="display:flex; gap:20px; margin-bottom:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/blizzard.png" alt="Blizzard" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +45,000,000')">
+    <div>Blizzard</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/amnesia.png" alt="Amnesia" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Attack: +35,000,000')">
+    <div>Amnesia</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/mage/aqua.png" alt="Aqua" width="64" style="cursor:pointer;" onclick="alert('Used at mage')">
+    <div>Aqua</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/mage/inferno.png" alt="Inferno" width="64" style="cursor:pointer;" onclick="alert('Used at mage')">
+    <div>Inferno</div>
+  </div>
+</div>
+<div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/equipment/iron-gauntlets.png" alt="Iron Gauntlets" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +2,000,000 / Spy Attack: +1,200,000')">
+    <div>Iron Gauntlets</div>
+    <div>(Equipment)</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/equipment/pinioned-boots.png" alt="Pinioned Boots" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +3% / Defense: +5% / Spy Defense: +2%')">
+    <div>Pinioned Boots</div>
+    <div>(Equipment)</div>
+  </div>
+</div>
 **Clan Unlock Bonus:** None
 
 ---
@@ -36,7 +94,7 @@
 - **Sporavek the Sylvan:** Attack and Assassinate to 25%
 
 ### Phase 4 of 4:
-- **Steel Tendrils (60,000):** Attack and Assassinate (*must have Abyssal Sword equipped; regenerates 600 points every 5 min*)  
+- **Steel Tendrils (60,000):** Attack and Assassinate (*must have Abyssal Blade equipped; regenerates 600 points every 5 min*)  
 - **Metallic Roots (185,000):** Attack and Assassinate (*regenerates 5,500 points every 5 min*)  
 - **Cavernous Mouth (25,000):** Attack and Assassinate (*must have Torrent Talisman equipped*)  
 - **Sporavek the Sylvan:** Attack and Assassinate to 0%

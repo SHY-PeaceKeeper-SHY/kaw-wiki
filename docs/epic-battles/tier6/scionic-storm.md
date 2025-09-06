@@ -1,10 +1,44 @@
 # Scionic Storm (Tier 6 – Level 3)
 
 **Duration:** 10 hours  
-**Requirements:** Searing Sickle (Phase 2)  
-**Items:** Orb of Illumination (Phase 3)  
+**Requirements:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/equipment/searing-sickle.png" alt="Searing Sickle" width="64" style="cursor:pointer;" onclick="alert('Required equipped for Scionic Storm!')">
+    <div>Searing Sickle</div>
+    <div>(Phase 2)</div>
+  </div> 
+</div>
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/orb-of-illumination.png" alt="Orb of Illumination" width="64" style="cursor:pointer;" onclick="alert('Spy Defense (1.2M Gold / piece)')">
+    <div>Orb of Illumination</div>
+    <div>(Phase 3)</div>
+  </div> 
+</div>
 **Regens:** Pupal Form (Phase 2)  
-**Drops:** Blizzard, Amnesia, Aqua, Inferno, **Torrent Talisman (required in [Sporavek's Revenge](sporaveks-revenge.md))**  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/blizzard.png" alt="Blizzard" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +45,000,000')">
+    <div>Blizzard</div>
+  </div>
+ <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/amnesia.png" alt="Amnesia" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Attack: +35,000,000')">
+    <div>Amnesia</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/mage/aqua.png" alt="Aqua" width="64" style="cursor:pointer;" onclick="alert('Used at mage')">
+    <div>Aqua</div>
+  </div>
+ <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/mage/inferno.png" alt="Inferno" width="64" style="cursor:pointer;" onclick="alert('Used at mage')">
+    <div>Inferno</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/equipment/torrent-talisman.png" alt="Torrent Talisman" width="64" style="cursor:pointer;" onclick="alert('Required for Sproraveks Revenge!')">
+    <div>Torrent Talisman</div>
+    <div>(Equipment)</div>
+  </div>
+</div>  
 **Clan Unlock Bonus:** None
 
 ---

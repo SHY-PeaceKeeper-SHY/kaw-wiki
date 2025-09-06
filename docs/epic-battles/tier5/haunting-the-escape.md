@@ -18,11 +18,11 @@
 **Regens:** None  
 **Drops:** <div style="display:flex; gap:20px;">
   <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
-    <img src="../../../images/items/aqua.png" alt="Aqua" width="64" style="cursor:pointer;" onclick="alert('Used at mage')">
+    <img src="../../../images/mage/aqua.png" alt="Aqua" width="64" style="cursor:pointer;" onclick="alert('Used at mage')">
     <div>Aqua</div>
   </div>
  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
-    <img src="../../../images/items/inferno.png" alt="Inferno" width="64" style="cursor:pointer;" onclick="alert('Used at mage')">
+    <img src="../../../images/mage/inferno.png" alt="Inferno" width="64" style="cursor:pointer;" onclick="alert('Used at mage')">
     <div>Inferno</div>
   </div>
   <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">

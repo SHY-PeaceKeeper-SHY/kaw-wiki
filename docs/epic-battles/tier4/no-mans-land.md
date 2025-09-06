@@ -12,13 +12,15 @@
 **Regens:** Shield Spell (Phase 1)  
 **Drops:** <div style="display:flex; gap:20px;">
   <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
-    <img src="../../../images/items/hooves-of-destruction.png" alt="Hooves of Destruction" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +700,000')">
+    <img src="../../../images/equipment/hooves-of-destruction.png" alt="Hooves of Destruction" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +700,000')">
     <div>Hooves of Destruction</div>
+    <div>(Equipment)</div>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
-    <img src="../../../images/items/leonine-arm-plate.png" alt="Leonine Arm Plate" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +3,000,000 / Defense: +3,000,000')">
+    <img src="../../../images/equipment/leonine-arm-plate.png" alt="Leonine Arm Plate" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +3,000,000 / Defense: +3,000,000')">
     <div>Leonine Arm Plate</div>
+    <div>(Equipment)</div>
   </div>
 </div>
 **Clan Unlock Bonus:** None

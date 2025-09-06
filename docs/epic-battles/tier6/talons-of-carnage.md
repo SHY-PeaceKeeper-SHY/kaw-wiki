@@ -2,9 +2,27 @@
 
 **Duration:** 8 hours  
 **Requirements:** None  
-**Items:** Rain of Fire (Phase 1 & 2)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/rain-of-fire.png" alt="Rain of Fire" width="64" style="cursor:pointer;" onclick="alert('Attack (1M Gold / piece)')">
+    <div>Rain of Fire</div>
+    <div>(Phase 1 & 2)</div>
+  </div>
+</div>
 **Regens:** Demonic Talons (Phase 2)  
-**Drops:** Silica Ring of Silence, Quicksilver Plates  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/equipment/silica-ring-of-silence.png" alt="Seal of the Damned" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Attack: +675,000 / Spy Defense: +675,000')">
+    <div>Silica Ring of Silence</div>
+    <div>(Equipment)</div>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/equipment/quicksilver-plates.png" alt="Quicksilver Plates" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +5,000,000 / Defense: +5,000,000')">
+    <div>Quicksilver Plates</div>
+    <div>(Equipment)</div>
+  </div>
+</div>
 **Clan Unlock Bonus:** None
 
 ---

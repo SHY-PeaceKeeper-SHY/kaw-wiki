@@ -18,13 +18,15 @@
 **Regens:** Apheriun's Seal (Phase 2), Apheriun's Improved Seal (Phase 3 & 4), Seal of the Nether (Phase 4)  
 **Drops:** <div style="display:flex; gap:20px;">
   <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
-    <img src="../../../images/items/hystricidae-helmet.png" alt="Hystricidae Helmet" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Attack: +270,000 / Spy Defense: +270,000')">
+    <img src="../../../images/equipment/hystricidae-helmet.png" alt="Hystricidae Helmet" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Attack: +270,000 / Spy Defense: +270,000')">
     <div>Hystricidae Helmet</div>
+    <div>(Equipment)</div>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
-    <img src="../../../images/items/nether-realm-breastplate.png" alt="Nether Realm Breastplate" width="64" style="cursor:pointer;" onclick="alert('Stats: Defense: +5,000,000')">
+    <img src="../../../images/equipment/nether-realm-breastplate.png" alt="Nether Realm Breastplate" width="64" style="cursor:pointer;" onclick="alert('Stats: Defense: +5,000,000')">
     <div>Nether Realm Breastplate</div>
+    <div>(Equipment)</div>
   </div>
 </div>
 **Clan Unlock Bonus:** None

@@ -29,12 +29,14 @@
     <div>Amnesia</div>
   </div>
   <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
-    <img src="../../../images/items/abyssal-blade.png" alt="Abyssal Blade" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +10% / Spy Attack: +10%')">
+    <img src="../../../images/equipment/abyssal-blade.png" alt="Abyssal Blade" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +10% / Spy Attack: +10%')">
     <div>Abyssal Blade</div>
+    <div>(Equipment)</div>
   </div>
   <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
-    <img src="../../../images/items/diamondiferous.png" alt="Diamondiferous" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +5,500,000 / Spy Attack: +2,100,000')">
+    <img src="../../../images/equipment/diamondiferous.png" alt="Diamondiferous" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +5,500,000 / Spy Attack: +2,100,000')">
     <div>Diamondiferous</div>
+    <div>(Equipment)</div>
   </div>
 </div>
 **Clan Unlock Bonus:** None

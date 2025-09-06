@@ -2,9 +2,29 @@
 
 **Duration:** 8 hours  
 **Requirements:** None  
-**Items:** Elven Shield (Phase 1)  
+**Items:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/elven-shield.jpg" alt="Elven Shield" width="64" style="cursor:pointer;" onclick="alert('Defense (125k Gold / piece)')">
+    <div>Elven Shield</div>
+    <div>(Phase 1)</div>
+  </div>
+</div> 
 **Regens:** Toxic Shoots (Phase 2)  
-**Drops:** Locust Swarm, Mind Scream, **Searing Sickle (required in [Scionic Storm](scionic-storm.md))**  
+**Drops:** <div style="display:flex; gap:20px;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/locust-swarm.png" alt="Locust Swarm" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +25,000,000')">
+    <div>Locust Swarm</div>
+  </div>
+ <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/items/mind-scream.png" alt="Mind Scream" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Attack: +20,000,000')">
+    <div>Mind Scream</div>
+  </div>
+  <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
+    <img src="../../../images/equipment/searing-sickle.png" alt="Searing Sickle" width="64" style="cursor:pointer;" onclick="alert('Required equipped for Scionic Storm!')">
+    <div>Searing Sickle</div>
+    <div>(Equipment)</div>
+  </div> 
+</div>
 **Clan Unlock Bonus:** None
 
 ---

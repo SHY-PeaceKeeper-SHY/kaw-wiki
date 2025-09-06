@@ -36,8 +36,9 @@
     <div>Mind Scream</div>
   </div>
   <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
-    <img src="../../../images/items/armor-of-eternal-fire.png" alt="Armor of Eternal Fire" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Defense: +5%')">
+    <img src="../../../images/equipment/armor-of-eternal-fire.png" alt="Armor of Eternal Fire" width="64" style="cursor:pointer;" onclick="alert('Stats: Spy Defense: +5%')">
     <div>Armor of Eternal Fire</div>
+    <div>(Equipment)</div>
   </div> 
 </div>
 **Clan Unlock Bonus:** None

@@ -12,8 +12,9 @@
 **Regens:** Massive Tentacles (Phase 2)  
 **Drops:** <div style="display:flex; gap:20px;">
   <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
-    <img src="../../../images/items/hooves-of-destruction.png" alt="Hooves of Destruction" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +700,000')">
+    <img src="../../../images/equipment/hooves-of-destruction.png" alt="Hooves of Destruction" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +700,000')">
     <div>Hooves of Destruction</div>
+    <div>(Equipment)</div>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
