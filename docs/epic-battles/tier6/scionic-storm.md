@@ -38,7 +38,7 @@
     <div>Torrent Talisman</div>
     <div>(Equipment)</div>
   </div>
-</div>  
+</div>
 **Clan Unlock Bonus:** None
 
 ---

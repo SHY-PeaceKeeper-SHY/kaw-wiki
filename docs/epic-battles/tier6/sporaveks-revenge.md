@@ -38,11 +38,7 @@
     <div>(Phase 2)</div>
   </div>
 </div>
-**Regens:**  
-- Infected Soldiers (Phase 2)  
-- Steel Talons (Phase 4)  
-- Metallic Roots (Phase 4)  
-- Cavernous Mouth (Phase 4)  
+**Regens:** Infected Soldiers (Phase 2), Steel Talons (Phase 4), Metallic Roots (Phase 4), Cavernous Mouth (Phase 4)  
 **Drops:** <div style="display:flex; gap:20px; margin-bottom:20px;">
   <div style="display:flex; flex-direction:column; align-items:center; width:max-content;">
     <img src="../../../images/items/blizzard.png" alt="Blizzard" width="64" style="cursor:pointer;" onclick="alert('Stats: Attack: +45,000,000')">
